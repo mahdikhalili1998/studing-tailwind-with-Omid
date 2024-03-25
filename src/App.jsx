@@ -1,10 +1,6 @@
 function App() {
   return (
-    <div className="font-farsiNum px-4 flex-col justify-normal gap-1 bg-slate-300 flex ">
-      <p>سلام بچه ها حالتون چ ره</p>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
-      <p>1233434</p>
-    </div>
+    <div className=" h-screen bg-[linear-gradiant(90deg,theme('colors.red.500'),#ff4990,#56ff00)]"></div>
   );
 }
 
